@@ -1,0 +1,11 @@
+C:\Users\momoh\source\repos\Drawing app\Drawing app\bin\Debug\Drawing app.exe.config
+C:\Users\momoh\source\repos\Drawing app\Drawing app\bin\Debug\Drawing app.exe
+C:\Users\momoh\source\repos\Drawing app\Drawing app\bin\Debug\Drawing app.pdb
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.AssemblyReference.cache
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing_app.Properties.Resources.resources
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.GenerateResource.cache
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.CoreCompileInputs.cache
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.exe
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.pdb
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing_app.ogpanel.resources
+C:\Users\momoh\source\repos\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.SuggestedBindingRedirects.cache
